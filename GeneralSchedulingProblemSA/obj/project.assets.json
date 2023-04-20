@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\GeneralSchedulingProblemSA\\GeneralSchedulingProblemSA.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\GeneralSchedulingProblemSA\\GeneralSchedulingProblemSA.csproj",
       "projectName": "GeneralSchedulingProblemSA",
-      "projectPath": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\GeneralSchedulingProblemSA\\GeneralSchedulingProblemSA.csproj",
+      "projectPath": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\GeneralSchedulingProblemSA\\GeneralSchedulingProblemSA.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\GeneralSchedulingProblemSA\\obj\\",
+      "outputPath": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\GeneralSchedulingProblemSA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
