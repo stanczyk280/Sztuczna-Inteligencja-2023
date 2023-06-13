@@ -1,0 +1,15 @@
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.csproj.AssemblyReference.cache
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.AssemblyInfo.cs
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\bin\Debug\net7.0\GeneralSchedulingProblemSA.exe
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\bin\Debug\net7.0\GeneralSchedulingProblemSA.deps.json
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\bin\Debug\net7.0\GeneralSchedulingProblemSA.runtimeconfig.json
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\bin\Debug\net7.0\GeneralSchedulingProblemSA.dll
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\bin\Debug\net7.0\GeneralSchedulingProblemSA.pdb
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.dll
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\refint\GeneralSchedulingProblemSA.dll
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.pdb
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\GeneralSchedulingProblemSA.genruntimeconfig.cache
+C:\Users\barte\source\repos\GeneralSchedulingProblemSA\GeneralSchedulingProblemSA\obj\Debug\net7.0\ref\GeneralSchedulingProblemSA.dll
