@@ -49,7 +49,7 @@ namespace BayesCoin
             Beta inferredProbability = engine.Infer<Beta>(Probability);
 
             //Wyniki
-            Console.WriteLine("Average of throws: " + inferredProbability.GetMean());
+            Console.WriteLine("Average: " + inferredProbability.GetMean());
             Console.WriteLine("Heads: " + heads + " Tails: " + tails);
         }
     }

@@ -43,7 +43,7 @@
                     }
                 }
 
-                Console.WriteLine("\nOverall execution time: " + bestSchedule.CalculateMakespan());
+                Console.WriteLine("\nEexecution time: " + bestSchedule.CalculateMakespan());
             }
             else
             {

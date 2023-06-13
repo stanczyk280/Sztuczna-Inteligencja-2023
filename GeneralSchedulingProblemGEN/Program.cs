@@ -39,7 +39,7 @@
                 Console.WriteLine();
             }
 
-            Console.WriteLine($"Overall execution time: {bestSchedule.CalculateMakespan()}");
+            Console.WriteLine($"Execution time: {bestSchedule.CalculateMakespan()}");
         }
     }
 }
