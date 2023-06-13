@@ -5124,11 +5124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\BayesCoin\\BayesCoin.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\BayesCoin\\BayesCoin.csproj",
       "projectName": "BayesCoin",
-      "projectPath": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\BayesCoin\\BayesCoin.csproj",
+      "projectPath": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\BayesCoin\\BayesCoin.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\BayesCoin\\obj\\",
+      "outputPath": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\BayesCoin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

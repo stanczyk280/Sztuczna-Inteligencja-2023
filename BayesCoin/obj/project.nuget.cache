@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jA2r3vPXNRJeCR8qpZ8z+QJ0fjFnxyNwbd/3j4mdnUykE79cUjoWc4T7OSYlZFVoDOlBPDXouj1acwOnRJpkdA==",
+  "dgSpecHash": "7sAaNdWPZy3C3oRwW/zuD6ixWIAqTtlzQyqJ5cuAs3iYYJsKFySGK0U55iwt165t5mdgF3B8p8fLKO/Jz8qqPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barte\\source\\repos\\GeneralSchedulingProblem\\BayesCoin\\BayesCoin.csproj",
+  "projectFilePath": "C:\\Users\\barte\\source\\repos\\Sztuczna-Inteligencja-2023\\BayesCoin\\BayesCoin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barte\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.6.1\\microsoft.codeanalysis.analyzers.2.6.1.nupkg.sha512",
     "C:\\Users\\barte\\.nuget\\packages\\microsoft.codeanalysis.common\\2.10.0\\microsoft.codeanalysis.common.2.10.0.nupkg.sha512",
