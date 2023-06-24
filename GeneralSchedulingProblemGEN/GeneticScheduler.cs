@@ -163,7 +163,7 @@ namespace GeneralSchedulingProblemGEN
             return new Schedule(childProcessors);
         }
 
-        //metoda mutująca, czyli zmieniająca harmonogram
+        //metoda mutująca, czyli zmieniająca harmonogram w losowy sposob
         private void Mutate(Schedule schedule)
         {
             foreach (Processor processor in schedule.Processors)
